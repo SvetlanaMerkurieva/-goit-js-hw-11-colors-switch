@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+.btn {
+  width: 240px;
+  height: 120px;
+  font-size: 50px;
+  border-radius: 50px;
+  margin-top: 20%;
+  background-color: burlywood;
+  margin-right: 15px;
+}
+.btn:hover {
+  cursor: pointer;
+}
+.btn-noActive {
+  background-color: grey;
+}
+.btn-noActive:hover {
+  cursor: default;
+}
